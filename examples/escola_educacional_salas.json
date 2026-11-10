@@ -1,0 +1,33 @@
+{
+  "nome_edificacao": "Colégio Integrado São Paulo",
+  "altura_total_m": "9.5",
+  "tipo_escada": "enclausurada_protegida",
+  "possui_sprinklers": false,
+  "dados_degrau": {
+    "altura_espelho_m": "0.170",
+    "largura_piso_m": "0.295"
+  },
+  "pavimentos": [
+    {
+      "nome_pavimento": "Térreo - Pátio e Secretaria",
+      "grupo_ocupacao": "E",
+      "area_liquida_m2": 600,
+      "distancia_percorrer_m": "18.0",
+      "quantidade_saidas_instaladas": 2
+    },
+    {
+      "nome_pavimento": "1º Pavimento - Salas de Aula Ensino Fundamental",
+      "grupo_ocupacao": "E",
+      "area_liquida_m2": 500,
+      "distancia_percorrer_m": "24.0",
+      "quantidade_saidas_instaladas": 2
+    },
+    {
+      "nome_pavimento": "2º Pavimento - Salas de Aula Ensino Médio",
+      "grupo_ocupacao": "E",
+      "area_liquida_m2": 500,
+      "distancia_percorrer_m": "24.0",
+      "quantidade_saidas_instaladas": 2
+    }
+  ]
+}

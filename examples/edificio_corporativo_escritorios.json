@@ -1,0 +1,33 @@
+{
+  "nome_edificacao": "Torre Corporativa Paulista",
+  "altura_total_m": "28.0",
+  "tipo_escada": "enclausurada_protegida",
+  "possui_sprinklers": true,
+  "dados_degrau": {
+    "altura_espelho_m": "0.175",
+    "largura_piso_m": "0.285"
+  },
+  "pavimentos": [
+    {
+      "nome_pavimento": "Térreo - Recepção e Acesso",
+      "grupo_ocupacao": "D",
+      "area_liquida_m2": 490,
+      "distancia_percorrer_m": "22.0",
+      "quantidade_saidas_instaladas": 2
+    },
+    {
+      "nome_pavimento": "1º ao 7º Pavimento Tipo - Escritórios",
+      "grupo_ocupacao": "D",
+      "area_liquida_m2": 420,
+      "distancia_percorrer_m": "26.0",
+      "quantidade_saidas_instaladas": 2
+    },
+    {
+      "nome_pavimento": "8º Pavimento - Diretoria e Sala de Reunião",
+      "grupo_ocupacao": "D",
+      "area_liquida_m2": 350,
+      "distancia_percorrer_m": "20.0",
+      "quantidade_saidas_instaladas": 2
+    }
+  ]
+}
